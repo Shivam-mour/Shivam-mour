@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Mourya</h1>
 <h3 align="center">🎓 A passionate Business/Data Analyst ready to explore and contribute to real-world data challenges.</h3>
 
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-mour&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-mour" /> </p>
 
 - 🔭 I’m currently working on **Real-world data analysis projects**
