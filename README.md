@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-mour&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-mour" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=shivam-mour&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-mour](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDF5bTZta2RoZXRtY3A3Ym4xY3N6aHlwdXJuejZiM2UxbDRtc3lsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.webp)" /> </p>
 
 - 🔭 I’m currently working on **Real-world data analysis projects**
 
