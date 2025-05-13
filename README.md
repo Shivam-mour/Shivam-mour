@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Shivam-mour/Shivam-mour/blob/main/images.jpeg" alt="logo" width="800" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Shivam Mourya</h1>
 <h3 align="center">🎓 A passionate Business/Data Analyst ready to explore and contribute to real-world data challenges.</h3>
 
